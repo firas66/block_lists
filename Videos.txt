@@ -1,0 +1,25 @@
+# This blocklist blocks the Adobe traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Adobe/adobeblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
+0.0.0.0 7.googlevideo.com
+0.0.0.0 clients6.google.com
+0.0.0.0 e.googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 k.googlevideo.com
+0.0.0.0 s.googlevideo.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 z.googlevideo.com
